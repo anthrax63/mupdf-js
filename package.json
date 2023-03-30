@@ -1,6 +1,6 @@
 {
   "name": "@anthrax63/mupdf-js",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "MuPDF compiled to WebAssembly",
   "main": "dist/index.js",
   "repository": "https://github.com/anthrax63/mupdf-js",
